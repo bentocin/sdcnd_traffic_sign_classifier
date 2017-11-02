@@ -1,2 +1,2 @@
-model_checkpoint_path: "lenet_color.ckpt"
-all_model_checkpoint_paths: "lenet_color.ckpt"
+model_checkpoint_path: "net_5a.ckpt"
+all_model_checkpoint_paths: "net_5a.ckpt"
